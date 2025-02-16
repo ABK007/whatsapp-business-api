@@ -3,6 +3,9 @@
 > [Youtube Video 1](https://www.youtube.com/watch?v=L6YQ-TzZqG0)
 > [Youtube Video 2](https://www.youtube.com/watch?v=y1AS-3jgIug&t=12s)
 
+
+> [Whatsapp BSP - aisensy.com](https://aisensy.com/pricing/usd)
+
 ## What is WA Business API
 
 The WhatsApp Business API is an interface that allows businesses to connect with their customers on WhatsApp. It is different from the WhatsApp Business app, which is a separate app that businesses can use to communicate with their customers. The WhatsApp Business API allows businesses to send and receive messages, automate tasks, and integrate with other systems.
